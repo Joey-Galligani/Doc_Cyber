@@ -63,12 +63,12 @@
 - ISO 27005
 - ISO 31000
 
-#### 6. Avantages de la méthode
+#### 5. Avantages de la méthode
 - Approche systématique et éprouvée.
 - Favorise la communication entre acteurs.
 - Met en évidence les risques majeurs.
 
-#### 7. Limites et points d’attention
+#### 6. Limites et points d’attention
 - Nécessite une implication forte des parties prenantes.
 - Peut être chronophage.
 - Doit être régulièrement mise à jour pour rester pertinente.
